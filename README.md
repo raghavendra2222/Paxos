@@ -208,3 +208,4 @@ px.dead. You should call px.isdead() in any loops you have that might run for a
 while, and break out of the loop if px.isdead() is true. It's particularly
 important to do this any in any long-running threads you create.
 
+# Paxos
